@@ -1,0 +1,9 @@
+{
+  "name" : "Hide lockscreen notification details",
+  "description": "Hides lockscreen notification details to avoid been read without unlocking the device",
+  "developer": { "name": "Nukeador" },
+  "package_path": "extension.zip",
+  "icons": {
+    "128": "/icons/128.png"
+  }
+}
