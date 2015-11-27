@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Hide lockscreen notification details",
     "description": "Hides lockscreen notification details to avoid been read without unlocking the device",
-    "version": "0.1",
+    "version": "0.1.1",
     "author": "Nukeador",
     "content_scripts": [{
       "matches": ["app://system.gaiamobile.org/index.html"],
